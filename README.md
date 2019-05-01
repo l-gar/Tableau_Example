@@ -1,4 +1,4 @@
-# Tableau_Homework
+# Tableau_Example
 
 Here is a Link to a Tableau exercise I created.
 
